@@ -1,0 +1,41 @@
+# Investigation Methodology
+
+## Step 1
+
+Review incoming security logs.
+
+---
+
+## Step 2
+
+Search authentication events.
+
+---
+
+## Step 3
+
+Investigate failed login attempts.
+
+---
+
+## Step 4
+
+Correlate related events.
+
+---
+
+## Step 5
+
+Identify suspicious activities.
+
+---
+
+## Step 6
+
+Document findings.
+
+---
+
+## Step 7
+
+Recommend security improvements.
