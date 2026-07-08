@@ -1,0 +1,27 @@
+# Lab Setup
+
+## Environment
+
+- Splunk Enterprise
+- Windows Operating System
+- Windows Security Logs
+
+---
+
+## Components
+
+- Splunk Search Head
+- Windows Event Logs
+- Search & Reporting App
+
+---
+
+## Data Source
+
+Windows Security Event Logs
+
+---
+
+## Objective
+
+Monitor authentication events and perform security log analysis.
